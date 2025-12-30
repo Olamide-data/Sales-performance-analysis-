@@ -5,6 +5,11 @@
 This data analysis project aims to evaluate sales performance, identify top performing products and regions,and generate insights that support data-driven business decisions.
 This project was completed as part of my learning journey as a **Data Analyst in training**
 
+![image](https://github.com/user-attachments/assets/57e4e44f-6b68-4de9-a29d-b1197349e652)
+![image](https://github.com/user-attachments/assets/431a7dcf-bf41-4918-bb0d-4d901aec58e1)
+
+
+
 ### Data Sources
 
 The primary dataset used for this is the "sales_performance_dataset.xlsx" file, containing the detailed information.
